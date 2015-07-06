@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class ConnectionDB { // tamam
+public class ConnectionDB { 
 
 	static Connection connection = null;
 
